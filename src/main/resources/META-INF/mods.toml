@@ -1,0 +1,15 @@
+modLoader = "lowcodefml"
+loaderVersion = "[38,)"
+license = "GNU AGPL 3.0"
+[[mods]]
+modId = "frostrideable"
+version = "${file.jarVersion}"
+displayName = "FrostRideable"
+authors = [
+    "Tapio",
+    "Rinko1231"
+]
+displayTest = "IGNORE_SERVER_VERSION"
+description = '''
+
+'''
