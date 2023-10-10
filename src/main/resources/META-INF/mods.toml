@@ -1,0 +1,14 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "GNU AGPL 3.0"
+[[mods]]
+modId = "frostrideable"
+version = "${file.jarVersion}"
+displayName = "FrostRideable"
+authors = [
+    "Tapio",
+    "Rinko1231"
+]
+description = '''
+
+'''
